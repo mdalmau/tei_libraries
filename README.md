@@ -4,7 +4,7 @@
 
 <p>In an attempt to better understand text encoding practices in libraries, we surveyed employees of libraries around the world between November 2012 and January 2013.  This repository contains the survey questions and the data collected — raw and coded.</p>
 
-<2>Survey Authors</h2>
+<h2>Survey Authors</h2>
 
 * Michelle Dalmau, Indiana University Libraries, mdalmau@indiana.edu
 * Kevin S. Hawkins, MPublishing, University of Michigan, kevin.s.hawkins@ultraslavonic.info 
