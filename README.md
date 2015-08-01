@@ -7,7 +7,7 @@
 <h2>Survey Authors</h2>
 
 * Michelle Dalmau, Indiana University Libraries, mdalmau@indiana.edu
-* Kevin S. Hawkins, MPublishing, University of Michigan, kevin.s.hawkins@ultraslavonic.info 
+* Kevin S. Hawkins, University of North Texas Libraries, kevin.s.hawkins@ultraslavonic.info 
 
 <h2>Survey Questions and Data</h2>
 
